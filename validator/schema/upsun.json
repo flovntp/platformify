@@ -354,6 +354,9 @@
                 "description": "More information: \nhttps://docs.upsun.com/create-apps/app-reference/single-runtime-image.html#web",
                 "default": {}
               },
+              "required": [
+                "root"
+              ],
               "commands": {
                 "type": "object",
                 "properties": {
